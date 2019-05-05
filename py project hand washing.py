@@ -1,6 +1,4 @@
 
-# coding: utf-8
-
 
 # importing modules
 # ... YOUR CODE FOR TASK 1 ...
